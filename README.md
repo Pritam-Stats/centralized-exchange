@@ -4,3 +4,4 @@ Link: https://ipritam.notion.site/CEX-9623934632d283209fb9813b458724da
 # V1
 - No websockets
 - There can be data loss of 60 secs (or whatever we choose)
+- boilerplate code : https://github.com/rahul-MyGit/cex-v2-boilercode
